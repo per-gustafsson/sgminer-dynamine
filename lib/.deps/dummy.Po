@@ -1,1 +1,1 @@
-# dummy
+dummy.o: dummy.c
